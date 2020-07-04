@@ -317,7 +317,7 @@ header {
 }
 /*sc-2 start*/
 #sc-2 {
-  height: 650px;
+  height: 450px;
   background: #fff;
 }
 #sc-2 h1 {
@@ -327,10 +327,11 @@ header {
 }
 .default-text {
   color: #59088a;
+  font-size: 24px !important;
 }
 .about-text ul li {
   color: #750db4;
-  font-size: 18px ;
+  font-size: 24px;
   list-style: none;
 }
 /*sc-2 end*/
